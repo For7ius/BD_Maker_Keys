@@ -1,0 +1,28 @@
+C - Create Mode
+R - Remove Mode
+T - Type Mode
+E - Edit Move
+Q - Toggle Swipe
+G - Toggle Grid
+Slash[/] - Deselect
+B - Zoom In/Out
+Esc - Open Settings
+M - Open Move Strength
+Delete - Delete Selected
+
+•[C] is for Control/Command
+[C]+UpArrow - Move Up
+[C]+DownArrow - Move Down
+[C]+RightArrow - Move Right
+[C]+LeftArrow - Move Left
+[C]+[ - Flip Vertically
+[C]+] - Flip Horizontally
+[C]+K - Rotate Clockwise
+[C]+L - Rotate CounterClockwise
+[C]+A - Select All
+[C]+D - Duplicate
+[C]+Z - Undo
+[C]+Y - Redo
+[C]+Shift+Z - Redo
+[C]+I - PlayTest
+[C]+S - Save
